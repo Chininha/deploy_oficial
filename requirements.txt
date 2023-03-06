@@ -1,0 +1,9 @@
+aiohttp==3.8.3
+openpyxl==3.0.10
+pandas==1.5.2
+plotly==5.13.0
+requests==2.28.1
+streamlit==1.18.1
+streamlit_option_menu==0.3.2
+streamlit-aggrid<0.3.3
+XlsxWriter==3.0.7
