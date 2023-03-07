@@ -21,7 +21,7 @@ st.set_page_config(page_title="DASHBOARD NLT",
 
 # ---------------- login -------------------
 
-file = ler_arquivo(nome_df="com_tags_nova.csv")
+file = ler_arquivo(nome_df="oficial_tags.csv")
 
 lista_tags = []
 contador = Counter()
